@@ -1,0 +1,22 @@
+.infoDiv {
+  text-align: center;
+}
+
+label {
+  font-size: 20px;
+}
+
+span {
+  color: green;
+}
+#button {
+  position: relative;
+  right: 10px;
+  background-color: green;
+  color: white;
+}
+
+#inputBox {
+  position: relative;
+  right: 20px;
+}
